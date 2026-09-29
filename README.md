@@ -1,8 +1,9 @@
+<img width="1920" height="1080" alt="Screenshot 2026-09-29 100802" src="https://github.com/user-attachments/assets/7dbe4e98-c208-4487-9b3d-8f433f3cbb9f" />
+<img width="1920" height="1080" alt="Screenshot 2026-09-29 100932" src="https://github.com/user-attachments/assets/2cf6524b-a0a4-4460-81e7-3b71c3b30656" />
+<img width="1920" height="1080" alt="Screenshot 2026-09-29 100941" src="https://github.com/user-attachments/assets/d0b2f3a0-fb20-40a3-ac6f-16b816ae2808" />
 <img width="1920" height="1080" alt="Screenshot 2026-09-29 101447" src="https://github.com/user-attachments/assets/6ce074ce-2a27-4b47-aa4c-c15dcc1c9cf7" />
 <img width="1920" height="1080" alt="Screenshot 2026-09-29 101114" src="https://github.com/user-attachments/assets/b4af371f-2bce-4cac-bcf0-1aa98194db37" />
-<img width="1920" height="1080" alt="Screenshot 2026-09-29 100941" src="https://github.com/user-attachments/assets/d0b2f3a0-fb20-40a3-ac6f-16b816ae2808" />
-<img width="1920" height="1080" alt="Screenshot 2026-09-29 100932" src="https://github.com/user-attachments/assets/2cf6524b-a0a4-4460-81e7-3b71c3b30656" />
-<img width="1920" height="1080" alt="Screenshot 2026-09-29 100802" src="https://github.com/user-attachments/assets/7dbe4e98-c208-4487-9b3d-8f433f3cbb9f" />
+
 # 🏡 WanderLust — Vacation Rental & Property Listing Platform
 
 A full-stack vacation rental and property listing web application inspired by Airbnb. WanderLust allows users to browse available properties, create and manage listings, authenticate securely, add reviews, and interact with location-based property information.
